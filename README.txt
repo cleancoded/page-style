@@ -1,6 +1,5 @@
 === Plugin Name ===
-
-Contributors: CLEANCODED
+Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://CLEANCODED.com
 Tags: custom-css, css, styling
 Requires at least: 4.0.0
